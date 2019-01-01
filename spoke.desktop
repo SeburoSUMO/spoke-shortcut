@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=spoke
+Comment=make your space
+Exec=/opt/spoke/spoke
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/opt/spoke/spoke.png
+Categories=GNOME;GTK;Development;
+StartupNotify=true
+
+
+
+
+
